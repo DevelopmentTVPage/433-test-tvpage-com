@@ -1,17 +1,17 @@
 {
     "advertising": {
-        "enabled": false,
-        "adServerUrl": null,
+        "enabled": true,
+        "adServerUrl": "asdfsdf",
         "adTimeout": 2000,
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": false,
+    "preload": true,
     "type": "carousel",
     "title": "es",
     "name": "es",
     "channelId": "101567212",
     "layout": "bootstrap",
-    "autoplay": false,
-    "autonext": false
+    "autoplay": true,
+    "autonext": true
 }
