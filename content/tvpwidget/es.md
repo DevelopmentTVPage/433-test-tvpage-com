@@ -11,5 +11,6 @@
     "title": "es",
     "name": "es",
     "channelId": "101567212",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "autoplay": true
 }
